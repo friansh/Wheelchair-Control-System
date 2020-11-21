@@ -8,15 +8,11 @@
  * 
  */
 
-#define L_SAFETY        26
-
 #define L_MOUT1         28  // --> PIN 1
 #define L_MOUT2         30  // --> PIN 2
 #define L_ENABLE_1      32  // --> PIN 3
 #define L_ENABLE_2      34  // --> PIN 4
 #define L_MOTOR_PWM     7   // --> PIN 6
-
-#define R_SAFETY        27
 
 #define R_MOUT1         29  // --> PIN 1
 #define R_MOUT2         31  // --> PIN 2
